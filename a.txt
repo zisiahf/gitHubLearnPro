@@ -1,3 +1,2 @@
 this is github test-----2.0版本
-在github中进行编辑
 this is github test ---- master
